@@ -1,0 +1,95 @@
+body{
+  margin: 0;
+background-color: #F7F3E9;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+hr{
+border-color: #DF711B;
+  border-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+border-width: 10px;
+}
+h1{
+  color: #5EAAA8;
+margin: 50px auto 0 auto;
+font-family: 'Righteous', cursive;
+/*Si la primera fuente no está instalada en el ordenador del visualizador, entonces se unas las otras descritas*/
+font-size: 6em;
+
+}
+h2{
+  color: #F05945;
+  font-size: 2.5em;
+  /*1em(or rem) = 16px*/
+  text-align: center;
+}
+h3{
+  color: #A3D2CA;
+  text-align: center;
+}
+.profile{
+  text-align: left;
+    line-height: 2;
+}
+.subtittle{
+  font-size: 2em;
+  font-style: oblique;
+}
+.cloud-top{
+  position: absolute;
+  right: 50px;
+height: 120px;
+}
+
+.cloud{
+  position: absolute;
+  left:50px;
+  top: 100px;
+  height: 120px;
+}
+.mountain{
+    position: relative;
+    align-items: center;
+margin: auto;
+}
+.middle-container{
+  position: relative;
+  margin: 50px auto 50px auto;
+}
+.computergif{
+  float: right;
+width: 25%;
+margin-left: 30px;
+
+}
+.brain{
+
+  float: left;
+width: 25%;
+
+margin-right: 30px;
+
+}
+.smilegif{
+  float: right;
+width: 25%;
+margin-left: 30px;
+
+}
+.skills{
+  margin: 50px auto 50px auto;
+}
+.skill-row{
+  width: 50%;
+margin: 50px auto;
+text-align: left;
+line-height: 2;
+}
+.profile{
+  width: 50%;
+margin: 59px auto 50px auto;
+}
